@@ -1,18 +1,138 @@
-# 2021L-WarsztatyBadawcze
-Daty spotkań 
 
-1. 26.02.2021
-2. 05.03.2021
-3. 12.03.2021
-4. 19.03.2021
-5. 26.03.2021
-6. 31.03.2021 (środa)
-7. 09.04.2021
-8. 16.04.2021
-9. 23.04.2021
-10. 30.04.2021
-11. 07.05.2021
-12. 12.05.2021 (środa)
-13. 21.05.2021
-14. 28.05.2021
-15. 11.06.2021
+### Terminy i tematy zajęć 
+
+<table>
+<thead>
+  <tr>
+    <th>NR ZAJĘĆ</th>
+    <th>PROJEKT</th>
+    <th>WYKŁAD</th>
+    <th>TEMAT WYKŁADU</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>2021-02-26</td>
+    <td>2021-02-25</td>
+    <td>ZAMIANA Z PROJEKTEM; Prezentacja tematów projektów</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>2021-03-04</td>
+    <td>2021-03-05</td>
+    <td>Struktura artykułu</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>2021-03-11</td>
+    <td>2021-03-12</td>
+    <td>Struktura artykułu cz. 2</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>2021-03-18</td>
+    <td>2021-03-19</td>
+    <td>Studium literaturowe</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>2021-03-25</td>
+    <td>2021-03-26.</td>
+    <td>Reprodukowalność</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>2021-04-01</td>
+    <td>2021-03-31 (środa)</td>
+    <td>Konferencje naukowe</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>2021-04-08</td>
+    <td>2021-04-09</td>
+    <td>Prezentacje naukowe</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>2021-04-15</td>
+    <td>2021-04-16</td>
+    <td>Prezentacje naukowe cz.2</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>2021-04-22</td>
+    <td>2021-04-22</td>
+    <td>Recenzowanie prac</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>2021-04-29</td>
+    <td>2021-04-30</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>2021-05-06</td>
+    <td>2021-05-07</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>2021-05-13</td>
+    <td>2021-05-12 (środa)</td>
+    <td>Wyykład przeniesiony na  27.05</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>2021-05-20</td>
+    <td>2021-05-21</td>
+    <td>Prezentacje grup XAI-1 i XAI-2</td>
+  </tr>
+    </tr>
+    <td>14</td>
+    <td>2021-05-28</td>
+    <td>2021-05-27</td>
+    <td> ZAMIANA Z PROJEKTEM: czwartek 27.05 prezentacje w godzinach 13-17 </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2021-06-04 </td>
+    <td> Oddanie projektu.</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>2021-06-10</td>
+    <td>2021-06-11</td>
+    <td>TBD</td>
+  </tr>
+</tbody>
+</table>
+
+
+### Schemat oceniania (suma 100 pkt):
+
+-   raport końcowy - 40 pkt.
+	- wstęp, motywacja [0-8 punktów]
+	- literatura [0-4 punktów]
+	- główne wyniki pracy [0-16 punktów]
+	- wnioski [0-8 punktów]  
+	- jakość wykresów/wizualizacji/diagramów [0-4 punktów]   
+-   prezentacja - 20 pkt.
+	- prezentacja wyników projektu podczas wykładu (oceniana przez wszystkich prowadzących)
+-   praca na laboratoriach (prace domowe) - 40 pkt.
+	
+
+
+| Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Punkty   | (50, 60] | (60, 70] | (70, 80] | (80, 90] | (90, ∞) |
+
+
+### Literatura
+
+- [Publikacje naukowe. Praktyczny poradnik dla studentów, doktorantów i nie tylko](https://ksiegarnia.pwn.pl/Publikacje-naukowe.-Praktyczny-poradnik-dla-studentow-doktorantow-i-nie-tylko,757141597,p.html)
+- [Prezentacje naukowe. Praktyczny poradnik dla studentów, doktorantów i nie tylko](https://ksiegarnia.pwn.pl/Prezentacje-naukowe,704612686,p.html)
+
+
+
