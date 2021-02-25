@@ -1,5 +1,5 @@
 
-### Terminy i tematy zajęć 
+### Terminy i tematy zajęć
 
 <table>
 <thead>
@@ -127,6 +127,14 @@
 | Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Punkty   | (50, 60] | (60, 70] | (70, 80] | (80, 90] | (90, ∞) |
+
+### Grupy projektowe
+- [XAI-1](https://github.com/mini-pw/2021L-WB-XAI-1)
+- [XAI-2](https://github.com/mini-pw/2021L-WB-XAI-2)
+- [DL-1](https://github.com/mini-pw/2021L-WB-DL-1)
+- [DL-2](https://github.com/mini-pw/2021L-WB-DL-2)
+- [ML](https://github.com/mini-pw/2021L-WB-ML)
+- [RashomonML](https://github.com/mini-pw/2021L-WB-RashomonML)
 
 
 ### Literatura
