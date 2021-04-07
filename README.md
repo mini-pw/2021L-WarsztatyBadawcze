@@ -121,12 +121,14 @@
 -   prezentacja - 20 pkt.
 	- prezentacja wyników projektu podczas wykładu (oceniana przez wszystkich prowadzących)
 -   praca na laboratoriach (prace domowe) - 40 pkt.
-	
+
 
 
 | Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Punkty   | (50, 60] | (60, 70] | (70, 80] | (80, 90] | (90, ∞) |
+
+[Repozytorium z raportami końcowymi](https://github.com/mini-pw/2021L-WB-Book)
 
 ### Grupy projektowe
 - [XAI-1](https://github.com/mini-pw/2021L-WB-XAI-1)
