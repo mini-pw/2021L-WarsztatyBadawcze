@@ -69,19 +69,19 @@
     <td>10</td>
     <td>2021-04-29</td>
     <td>2021-04-30</td>
-    <td>TBD</td>
+    <td> - </td>
   </tr>
   <tr>
     <td>11</td>
     <td>2021-05-06</td>
     <td>2021-05-07</td>
-    <td>TBD</td>
+    <td>Wyykład przeniesiony na  27.05</td>
   </tr>
   <tr>
     <td>12</td>
     <td>2021-05-13</td>
     <td>2021-05-12 (środa)</td>
-    <td>Wyykład przeniesiony na  27.05</td>
+    <td>Zaproszony gość</td>
   </tr>
   <tr>
     <td>13</td>
